@@ -1,7 +1,7 @@
 # FlamesFinder_GUI
 Game (prediction) just for fun.
-predict relation between two people irrespective of therir gender,
-nest level of FLAMES.
+predict relation between two people irrespective of their gender,
+next level of FLAMES.
 
 it also supports custom relations and many modes (order,special,random).
 
