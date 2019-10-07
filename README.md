@@ -15,7 +15,7 @@ Mode> special -> shuffled each time of starting executable.
 
 Mode> random -> shuffled each time of finding relation.
 
-![windows executable ![](flamesfinder.jpg)](flamesfinder_v0.0.exe)
+![windows executable](flamesfinder_v0.0.exe)
 
 ![ScreenShot](ScreenShot.PNG)
 
