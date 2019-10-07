@@ -15,5 +15,12 @@ Mode> special -> shuffled each time of starting executable.
 
 Mode> random -> shuffled each time of finding relation.
 
-executable (windows) link : https://drive.google.com/open?id=1aONXrIaoWWIzOHgT98VrEKoObEgrX7jM
+![Windows Executable ![icon](icon.ico)](flamesfinder_v0.0.exe)
 
+![ScreenShot](ScreenShot.PNG)
+
+![OtherLists](OtherLists.png)
+
+![CustomList](CustomList.png)
+
+![Modes](Modes.png)
