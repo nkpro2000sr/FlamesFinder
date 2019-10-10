@@ -17,10 +17,10 @@ Mode> random -> shuffled each time of finding relation.
 
 ![windows executable](flamesfinder_v0.0.exe)
 
-![ScreenShot](ScreenShot.PNG)
+![ScreenShot](ScreenShots/ScreenShot.png)
 
-![OtherLists](OtherLists.png)
+![OtherLists](ScreenShots/OtherLists.png)
 
-![CustomList](CustomList.PNG)
+![CustomList](ScreenShots/CustomList.png)
 
-![Modes](Modes.png)
+![Modes](ScreenShots/Modes.png)
