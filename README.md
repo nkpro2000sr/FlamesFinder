@@ -25,4 +25,4 @@ Mode> random -> shuffled each time of finding relation.
 
 ![Modes](ScreenShots/Modes.png)
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](LICENSE.md)
