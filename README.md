@@ -26,3 +26,12 @@ Mode> random -> shuffled each time of finding relation.
 ![Modes](ScreenShots/Modes.png)
 
 Licensed under the [MIT License](LICENSE.md)
+
+Flames not only for LOVERS...
+it is just a game.
+
+accoding to me it is a function with two names as parameters
+and returns index of our collection.
+
+def Flames(name1:"String", name2:"String", n:"Integer length of collection") -> "index: Integer index of collection" :
+    #this_code
